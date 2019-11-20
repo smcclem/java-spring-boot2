@@ -2,7 +2,6 @@ apiVersion: appsody.dev/v1beta1
 kind: AppsodyApplication
 metadata:
   name: test2
-  namespace: production
 spec:
   # Add fields here
   version: 1.0.0
