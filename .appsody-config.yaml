@@ -1,1 +1,1 @@
-stack: kabanero/java-spring-boot2:0.3
+stack: docker.io/kabanerobeta/java-spring-boot2:0.3
